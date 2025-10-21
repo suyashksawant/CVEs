@@ -1,3 +1,4 @@
 # CVEs
-List of CVEs published
+List of CVEs published.
+
 Author: Suyash Kishor Sawant
